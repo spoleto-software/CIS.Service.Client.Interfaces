@@ -3,7 +3,7 @@
     <PropertyGroup>
         <TargetFrameworks>netcoreapp3.1;netstandard2.0</TargetFrameworks>
         <AssemblyName>CIS.Service.Client.Interfaces</AssemblyName>
-        <PackageId>SPOLETO.CIS.Service.Client.Interfaces</PackageId>
+        <PackageId>Spoleto.CIS.Service.Client.Interfaces</PackageId>
         <RootNamespace>CIS.Service.Client.Interfaces</RootNamespace>
         <Product>CIS.Service.Client.Interfaces library</Product>
         <Description>The base library for SPOLETO.CIS.Service.Client</Description>
