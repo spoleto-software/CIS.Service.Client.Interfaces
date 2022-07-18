@@ -3,8 +3,8 @@
     <PropertyGroup>
         <TargetFrameworks>netcoreapp3.1;netstandard2.0</TargetFrameworks>
         <AssemblyName>CIS.Service.Client.Interfaces</AssemblyName>
-        <PackageId>Spoleto.CIS.Service.Client.Interfaces</PackageId>
         <RootNamespace>CIS.Service.Client.Interfaces</RootNamespace>
+		<Title>CIS.Service.Client.Interfaces</Title>
 		<DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 		<LangVersion>latest</LangVersion>
@@ -21,7 +21,7 @@
 	<PropertyGroup>
 		<Product>CIS.Service.Client.Interfaces library</Product>
 		<Description>The base library for Spoleto.CIS.Service.Client</Description>
-		<PackageId>Spoleto.CIS.EDM</PackageId>
+		<PackageId>Spoleto.CIS.Service.Client.Interfaces</PackageId>
 		<Authors>OlegNadymov;Spoleto-Software</Authors>
 		<Company>SPOLETO Software Development</Company>
 		<PackageIcon>MainIcon.png</PackageIcon>
