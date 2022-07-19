@@ -30,7 +30,7 @@
 		<RepositoryType>git</RepositoryType>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<PackageTags>RESTful client; Web client; Http client; RESTful</PackageTags>
+		<PackageTags>RESTful; Web; Http; client</PackageTags>
 		<Copyright>Copyright © $([System.DateTime]::Now.Year.ToString())</Copyright>
 		<PackageReleaseNotes></PackageReleaseNotes>
 		<Version>$([System.DateTime]::Now.AddYears(-2020).Year.ToString()).$([System.DateTime]::Now.ToString("MM.dd.HHmm"))</Version>
