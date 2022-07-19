@@ -2,5 +2,5 @@
 
 Базовая библиотека клиента для SPOLETO RESTful service:
 
-https://github.com/spoleto-software/CIS.Service.Client.Interfaces
+https://github.com/spoleto-software/CIS.Service.Client
 
