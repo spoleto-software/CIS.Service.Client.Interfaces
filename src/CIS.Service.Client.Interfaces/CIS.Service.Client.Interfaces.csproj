@@ -51,6 +51,6 @@
 
     <ItemGroup Condition="'$(TargetFramework.TrimEnd(`0123456789.`))' == 'netstandard'">
         <!-- Properties for netstandard -->
-        <PackageReference Include="System.Text.Json" Version="4.7.0" />
+        <PackageReference Include="System.Text.Json" Version="7.0.2" />
     </ItemGroup>
 </Project>
